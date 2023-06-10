@@ -1,7 +1,7 @@
 [
     {
         "content": "De cijferlijst wordt binnenkort gesloten vanwege de toetsweek. Vergeet hem niet te exporteren!",
-        "links": [
+        "buttons": [
             {
                 "innerText": "cijferoverzicht",
                 "href": "#/cijfers/cijferoverzicht",
@@ -16,6 +16,7 @@
             "amadeuslyceum"
         ],
         "dateStart": "2023-06-11 00:00",
-        "dateEnd": "2023-06-18 00:00"
+        "dateEnd": "2023-06-18 00:00",
+        "duration": 10000
     }
 ]
