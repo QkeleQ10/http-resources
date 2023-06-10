@@ -1,11 +1,10 @@
 [
     {
-        "content": "De cijferlijst wordt binnenkort gesloten vanwege de toetsweek. Vergeet hem niet te exporteren!",
+        "body": "De cijferlijst wordt binnenkort gesloten vanwege de toetsweek. Vergeet hem niet te exporteren!",
         "buttons": [
             {
                 "innerText": "cijferoverzicht",
-                "href": "#/cijfers/cijferoverzicht",
-                "target": "blank"
+                "href": "#/cijfers/cijferoverzicht"
             }
         ],
         "requiredSettings": [
@@ -17,6 +16,6 @@
         ],
         "dateStart": "2023-06-10 00:00",
         "dateEnd": "2023-06-18 00:00",
-        "duration": 10000
+        "duration": 20000
     }
 ]
