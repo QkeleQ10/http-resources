@@ -1,2 +1,17 @@
 [
+   {
+        "body": "Vanaf nu kun je back-ups van je cijferlijst ook buiten Magister bekijken!",
+        "buttons": [
+            {
+                "innerText": "uploaden",
+                "href": "https://qkeleq10.github.io/studytools/grades"
+            }
+        ],
+        "requiredSettings": [
+            "magister-cf-backup"
+        ],
+        "dateStart": "2023-06-29 00:00",
+        "dateEnd": "2023-07-21 00:00",
+        "duration": 20000
+    }
 ]
