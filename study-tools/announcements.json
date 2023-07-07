@@ -13,5 +13,24 @@
         "dateStart": "2023-06-29 00:00",
         "dateEnd": "2023-07-21 00:00",
         "duration": 20000
+    },
+   {
+        "body": "Op maandag wordt Magister gesloten. Maak snel een back-up van je cijfers!",
+        "buttons": [
+            {
+                "innerText": "cijferoverzicht",
+                "href": "#/cijfers/cijferoverzicht"
+            }
+        ],
+        "requiredSettings": [
+            "magister-cf-backup"
+        ],
+        "allowedSchools": [
+            "amadeus",
+            "amadeuslyceum"
+        ],
+        "dateStart": "2023-07-07 00:00",
+        "dateEnd": "2023-07-11 00:00",
+        "duration": 20000
     }
 ]
