@@ -2,7 +2,28 @@
     {
         "type": "revealOnInput",
         "location": "studyguidesSearch",
-        "input": "106926test",
-        "output": "Het werkt :)"
+        "input": "De bomen in het bos",
+        "output": "Je bent er bijna!!! Welk land staat op bladzijde 227 van het grote boek die we niet nodig hebben bij het examen maar wel bij alle andere toetsen? Voer dit in."
+    }
+    
+    {
+        "type": "revealOnInput",
+        "location": "studyguidesSearch",
+        "input": "de bomen in het bos",
+        "output": "leer netjes schrijven, denk aan spellings regels en probeer opnieuw"
+    }
+    
+    {
+        "type": "revealOnInput",
+        "location": "studyguidesSearch",
+        "input": "Suriname",
+        "output": "Ceaser cypher +7, Wat moest je nou bewaren???"
+    }
+    
+    {
+        "type": "revealOnInput",
+        "location": "studyguidesSearch",
+        "input": "suriname",
+        "output": "leer netjes schrijven, denk aan spellings regels en probeer opnieuw"
     }
 ]
