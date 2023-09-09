@@ -1,0 +1,8 @@
+[
+    {
+        "type": "revealOnInput",
+        "location": "studyguidesSearch",
+        "input": "106926test",
+        "output": "Het werkt :)"
+    }
+]
