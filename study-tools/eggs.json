@@ -1,26 +1,8 @@
 [
     {
-        "type": "revealOnInput",
+        "type": "dialog",
         "location": "studyguidesSearch",
-        "input": "De bomen in het bos",
-        "output": "Je bent er bijna!!! Welk land staat op bladzijde 227 van het grote boek dat we niet nodig hebben bij het examen, maar wel bij alle andere toetsen? Voer dit in."
-    },    
-    {
-        "type": "revealOnInput",
-        "location": "studyguidesSearch",
-        "input": "de bomen in het bos",
-        "output": "Leer netjes schrijven! Denk aan de spellingsregels en probeer het opnieuw."
-    },    
-    {
-        "type": "revealOnInput",
-        "location": "studyguidesSearch",
-        "input": "Suriname",
-        "output": "Caesar cipher +7... Wat moest je nou bewaren???"
-    },    
-    {
-        "type": "revealOnInput",
-        "location": "studyguidesSearch",
-        "input": "suriname",
-        "output": "Leer netjes schrijven! Denk aan de spellingsregels en probeer het opnieuw."
+        "input": "test",
+        "output": "Het werkt?"
     }
 ]
