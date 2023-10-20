@@ -1,17 +1,31 @@
 [
-   {
-        "body": "Magister is gesloten. Upload je geback-upte cijfers op de website om ze te kunnen bekijken!",
+    {
+        "type": "snackbar",
+        "body": "De cijferlijst is gesloten. Upload je geback-upte cijfers op de website om ze te kunnen bekijken!",
         "buttons": [
             {
                 "innerText": "uploaden",
                 "href": "https://qkeleq10.github.io/studytools/grades"
             }
         ],
-        "requiredSettings": [
-            "magister-cf-backup"
-        ],
-        "dateStart": "2023-06-29 00:00",
-        "dateEnd": "2023-08-22 17:00",
+        "dateStart": "2023-11-09 08:00",
+        "dateEnd": "2023-11-29 17:00",
+        "onlyForSchools": ["amadeuslyceum", "amadeus"],
         "duration": 20000
+    },
+    {
+        "type": "snackbar",
+        "body": "Vergeet je niet in te schrijven voor je keuzeblokken!",
+        "buttons": [
+            {
+                "innerText": "Zermelo",
+                "clickSelector": "a[href*='zportal.nl']"
+            }
+        ],
+        "onlyOnWeekdays": [1],
+        "onlyBeforeTime": "11:00",
+        "onlyAfterTime": "08:00",
+        "onlyForSchools": ["amadeuslyceum", "amadeus"],
+        "duration": 10000
     }
 ]
