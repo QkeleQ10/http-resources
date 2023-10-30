@@ -8,7 +8,8 @@
     {
         "type": "dialog",
         "location": "personalEventTitle",
+        "matchRule": "startsWith",
         "input": "R2VmZW",
-        "output": "Dat is in Base64..."
+        "output": "tetrasexagesimal binary-to-text encoding"
     }
 ]
