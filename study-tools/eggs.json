@@ -8,7 +8,7 @@
     {
         "type": "dialog",
         "location": "personalEventTitle",
-        "input": "aHR0cHM6Ly93d3cuaHVtYmxlYnVuZGxlLmNvbS8/Z2lmdD1hWHRXS1JVQjdLUlQ0Y1d5",
+        "input": "aHR0cH",
         "output": "Dat is in Base64..."
     }
 ]
