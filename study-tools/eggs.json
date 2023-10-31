@@ -11,5 +11,12 @@
         "matchRule": "startsWith",
         "input": "R2VmZW",
         "output": "tetrasexagesimal binary-to-text encoding"
+    },
+    {
+        "type": "dialog",
+        "location": "personalEventTitle",
+        "matchRule": "startsWith",
+        "input": "Study Tools",
+        "output": "Very good"
     }
 ]
