@@ -7,6 +7,12 @@
     },
     {
         "type": "dialog",
+        "location": "studyguidesSearch",
+        "input": "R2VmZW",
+        "output": "Dat was niet helemaal de bedoeling sukkel"
+    },
+    {
+        "type": "dialog",
         "location": "personalEventTitle",
         "matchRule": "startsWith",
         "input": "R2VmZW",
