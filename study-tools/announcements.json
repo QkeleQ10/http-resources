@@ -1,6 +1,14 @@
 [
     {
         "type": "snackbar",
+        "body": "Succes met je toetsen! 🍀",
+        "dateStart": "2023-11-08 08:00",
+        "dateEnd": "2023-11-17 17:00",
+        "onlyForSchools": ["amadeuslyceum", "amadeus"],
+        "duration": 4000
+    },
+    {
+        "type": "snackbar",
         "body": "De cijferlijst is gesloten. Upload je geback-upte cijfers op de website om ze te kunnen bekijken!",
         "buttons": [
             {
