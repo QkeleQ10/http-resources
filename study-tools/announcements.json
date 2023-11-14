@@ -19,7 +19,7 @@
         "dateStart": "2023-11-09 08:00",
         "dateEnd": "2023-11-29 17:00",
         "onlyForSchools": ["amadeuslyceum", "amadeus"],
-        "duration": 20000
+        "duration": 4000
     },
     {
         "type": "snackbar",
