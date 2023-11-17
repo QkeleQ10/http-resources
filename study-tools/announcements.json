@@ -9,20 +9,6 @@
     },
     {
         "type": "snackbar",
-        "body": "De cijferlijst is gesloten. Upload je geback-upte cijfers op de website om ze te kunnen bekijken!",
-        "buttons": [
-            {
-                "innerText": "uploaden",
-                "href": "https://qkeleq10.github.io/studytools/grades"
-            }
-        ],
-        "dateStart": "2023-11-09 08:00",
-        "dateEnd": "2023-11-29 17:00",
-        "onlyForSchools": ["amadeuslyceum", "amadeus"],
-        "duration": 4000
-    },
-    {
-        "type": "snackbar",
         "body": "Vergeet je niet in te schrijven voor je keuzeblokken!",
         "buttons": [
             {
