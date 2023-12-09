@@ -1,11 +1,10 @@
 [
     {
         "type": "snackbar",
-        "body": "Succes met je toetsen! 🍀",
-        "dateStart": "2023-11-08 08:00",
-        "dateEnd": "2023-11-17 17:00",
-        "onlyForSchools": ["amadeuslyceum", "amadeus"],
-        "duration": 4000
+        "body": "Geen zorgen, het paarse thema is een bug en is vóór maandagochtend opgelost.",
+        "dateStart": "2023-12-09 08:00",
+        "dateEnd": "2023-12-10 23:59",
+        "duration": 6000
     },
     {
         "type": "snackbar",
