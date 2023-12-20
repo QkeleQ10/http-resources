@@ -2,27 +2,27 @@
   <style>
     .dot-1 {
       transform-origin: 4px 50%;
-      animation: dot-pulse .8s linear infinite, dot-disappear 4s -3s linear infinite;
+      animation: dot-pulse .8s linear infinite, dot-disappear 4s -2s linear infinite;
     }
 
     .dot-2 {
       transform-origin: 12px 50%;
-      animation: dot-pulse .8s -.65s linear infinite, dot-disappear 4s -3s linear infinite;
+      animation: dot-pulse .8s -.65s linear infinite, dot-disappear 4s -2s linear infinite;
     }
 
     .dot-3 {
       transform-origin: 20px 50%;
-      animation: dot-pulse .8s -.5s linear infinite, dot-move 4s -3s linear infinite;
+      animation: dot-pulse .8s -.5s linear infinite, dot-move 4s -2s linear infinite;
     }
 
     .letter-1 {
       transform-origin: 4px 50%;
-      animation: letter-appear 4s -3.05s linear infinite both;
+      animation: letter-appear 4s -2.05s linear infinite both;
     }
 
     .letter-2 {
       transform-origin: 12px 50%;
-      animation: letter-appear 4s -3s linear infinite both;
+      animation: letter-appear 4s -2s linear infinite both;
     }
 
     @keyframes dot-pulse {
