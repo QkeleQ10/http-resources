@@ -59,7 +59,7 @@
 
       70%,
       90% {
-        transform: scale(0.5) translateX(-2px);
+        transform: scale(0.7) translateX(-1px) translateY(0.5px);
       }
     }
 
