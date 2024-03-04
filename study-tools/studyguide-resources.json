@@ -1,0 +1,9 @@
+[
+    {
+        "type": "spotifyIframe",
+        "src": "https://open.spotify.com/embed/show/4EGQmXs4iGaakrlsuuj3En?utm_source=generator&theme=0",
+        "conditions": {
+            "studyguideTitleIncludes": "v6-ak"
+        }
+    }
+]
