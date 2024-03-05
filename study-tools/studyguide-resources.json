@@ -7,6 +7,9 @@
         "conditions": [
             {
                 "studyguideTitleIncludes": "v6-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v6-bi"
             }
         ]
     }
