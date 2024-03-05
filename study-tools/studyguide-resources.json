@@ -4,8 +4,10 @@
         "src": "https://open.spotify.com/embed/show/4EGQmXs4iGaakrlsuuj3En?utm_source=generator&theme=0",
         "title": "Geschiedenispodcast door examenleerlingen",
         "href": "https://open.spotify.com/show/4EGQmXs4iGaakrlsuuj3En?si=0df024878c4745fa",
-        "conditions": {
-            "studyguideTitleIncludes": "v6-ak"
-        }
+        "conditions": [
+            {
+                "studyguideTitleIncludes": "v6-ak"
+            }
+        ]
     }
 ]
