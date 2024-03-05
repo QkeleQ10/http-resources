@@ -6,10 +6,13 @@
         "href": "https://open.spotify.com/show/4EGQmXs4iGaakrlsuuj3En?si=0df024878c4745fa",
         "conditions": [
             {
-                "studyguideTitleIncludes": "v6-ak"
+                "studyguideTitleIncludes": "v6-gs"
             },
             {
-                "studyguideTitleIncludes": "v6-bi"
+                "studyguideTitleIncludes": "v5-gs"
+            },
+            {
+                "studyguideTitleIncludes": "v4-gs"
             }
         ]
     }
