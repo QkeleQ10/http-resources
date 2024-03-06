@@ -15,5 +15,22 @@
                 "studyguideTitleIncludes": "v4-gs"
             }
         ]
+    },
+    {
+        "type": "youtubeIframe",
+        "src": "https://www.youtube.com/@BiologieAcademie/videos",
+        "title": "Biologiedocent met een pauzeknop",
+        "href": "https://www.youtube.com/@BiologieAcademie/videos",
+        "conditions": [
+            {
+                "studyguideTitleIncludes": "v6-bi"
+            },
+            {
+                "studyguideTitleIncludes": "v5-bi"
+            },
+            {
+                "studyguideTitleIncludes": "v4-bi"
+            }
+        ]
     }
 ]
