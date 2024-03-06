@@ -18,7 +18,7 @@
     },
     {
         "type": "youtubeIframe",
-        "src": "https://www.youtube.com/@BiologieAcademie/videos",
+        "src": "https://www.youtube-nocookie.com/embed/videoseries?si=KHcer1WwzyLv_6p7&amp;list=PL9QxYO-R8-7Twr5TypSSIXiZ9O0jih09y",
         "title": "Biologiedocent met een pauzeknop",
         "href": "https://www.youtube.com/@BiologieAcademie/videos",
         "conditions": [
