@@ -15,6 +15,20 @@
     },
     {
         "type": "snackbar",
+        "body": "De cijferlijst gaat binnenkort dicht. Vergeet niet een back-up te maken!",
+        "buttons": [
+            {
+                "innerText": "Cijfers",
+                "href": "#/cijfers/cijferoverzicht"
+            }
+        ],
+        "dateStart": "2024-03-10 08:00",
+        "dateEnd": "2024-03-15 17:00",
+        "duration": 10000,
+        "onlyForSchools": ["amadeuslyceum", "amadeus"]
+    },
+    {
+        "type": "snackbar",
         "body": "Vergeet je niet in te schrijven voor je keuzeblokken!",
         "buttons": [
             {
