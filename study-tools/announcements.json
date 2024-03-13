@@ -15,11 +15,11 @@
     },
     {
         "type": "snackbar",
-        "body": "De cijferlijst gaat binnenkort dicht. Vergeet niet een back-up te maken!",
+        "body": "De cijferlijst is dicht. Upload je cijferback-up:",
         "buttons": [
             {
-                "innerText": "Cijfers",
-                "href": "#/cijfers/cijferoverzicht"
+                "innerText": "Uploaden",
+                "href": "https://qkeleq10.github.io/studytools/grades"
             }
         ],
         "dateStart": "2024-03-10 08:00",
