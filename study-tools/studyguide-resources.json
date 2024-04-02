@@ -1,4 +1,4 @@
-[
+ [
     {
         "type": "spotifyIframe",
         "src": "https://open.spotify.com/embed/show/4EGQmXs4iGaakrlsuuj3En?utm_source=generator&theme=0",
@@ -13,6 +13,121 @@
             },
             {
                 "studyguideTitleIncludes": "v4-gs"
+            }
+        ]
+    },
+    {
+        "type": "youtubeIframe",
+        "src": "https://www.youtube-nocookie.com/embed/videoseries?si=42q35zJKuall8SAc&amp;list=PL_D8rVt3g7dUA_YCSKwYLnfKBBxVLnck0",
+        "title": "Aardrijkskunde Kennisclips: Thema Aarde",
+        "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dUA_YCSKwYLnfKBBxVLnck0",
+        "conditions": [
+            {
+                "studyguideTitleIncludes": "v6-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v4-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h4-ak"
+            }
+        ]
+    },
+    {
+        "type": "youtubeIframe",
+        "src": "https://www.youtube-nocookie.com/embed/videoseries?si=7kbaOxwUpmxlqKZq&amp;list=PL_D8rVt3g7dX2_ooClVNekt_OVsVt7iLC",
+        "title": "Aardrijkskunde Kennisclips: Thema Wereld",
+        "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dX2_ooClVNekt_OVsVt7iLC",
+        "conditions": [
+            {
+                "studyguideTitleIncludes": "v6-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v4-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h4-ak"
+            }
+        ]
+    },
+    {
+        "type": "youtubeIframe",
+        "src": "https://www.youtube-nocookie.com/embed/videoseries?si=1dlavUAHfj0zyqQv&amp;list=PL_D8rVt3g7dUgbDujRSmQY9w1Fx5xZLWz",
+        "title": "Aardrijkskunde Kennisclips: Thema Zuid-Amerika",
+        "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dUgbDujRSmQY9w1Fx5xZLWz",
+        "conditions": [
+            {
+                "studyguideTitleIncludes": "v6-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v4-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h4-ak"
+            }
+        ]
+    },
+    {
+        "type": "youtubeIframe",
+        "src": "https://www.youtube-nocookie.com/embed/videoseries?si=_JuYFeqgzXLXI4Qz&amp;list=PL_D8rVt3g7dXbK21n_32M-iMyISKcnHB8",
+        "title": "Aardrijkskunde Kennisclips: Thema Leefomgeving",
+        "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dXbK21n_32M-iMyISKcnHB8",
+        "conditions": [
+            {
+                "studyguideTitleIncludes": "v6-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v4-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h4-ak"
+            }
+        ]
+    },
+    {
+        "type": "youtubeIframe",
+        "src": "https://www.youtube-nocookie.com/embed/videoseries?si=3v6MKm1622aot8JC&amp;list=PL_D8rVt3g7dVHTHw1E8IpgN-0x0ZA8jBV",
+        "title": "Aardrijkskunde Kennisclips: Thema Water",
+        "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dVHTHw1E8IpgN-0x0ZA8jBV",
+        "conditions": [
+            {
+                "studyguideTitleIncludes": "v6-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "v4-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h5-ak"
+            },
+            {
+                "studyguideTitleIncludes": "h4-ak"
             }
         ]
     }
