@@ -19,7 +19,7 @@
     {
         "type": "youtubeIframe",
         "src": "https://www.youtube-nocookie.com/embed/videoseries?si=42q35zJKuall8SAc&amp;list=PL_D8rVt3g7dUA_YCSKwYLnfKBBxVLnck0",
-        "title": "Aardrijkskunde Kennisclips: Thema Aarde",
+        "title": "Aardrijkskunde Kennisclips: Aarde",
         "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dUA_YCSKwYLnfKBBxVLnck0",
         "conditions": [
             {
@@ -42,7 +42,7 @@
     {
         "type": "youtubeIframe",
         "src": "https://www.youtube-nocookie.com/embed/videoseries?si=7kbaOxwUpmxlqKZq&amp;list=PL_D8rVt3g7dX2_ooClVNekt_OVsVt7iLC",
-        "title": "Aardrijkskunde Kennisclips: Thema Wereld",
+        "title": "Aardrijkskunde Kennisclips: Wereld",
         "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dX2_ooClVNekt_OVsVt7iLC",
         "conditions": [
             {
@@ -65,7 +65,7 @@
     {
         "type": "youtubeIframe",
         "src": "https://www.youtube-nocookie.com/embed/videoseries?si=1dlavUAHfj0zyqQv&amp;list=PL_D8rVt3g7dUgbDujRSmQY9w1Fx5xZLWz",
-        "title": "Aardrijkskunde Kennisclips: Thema Zuid-Amerika",
+        "title": "Aardrijkskunde Kennisclips: Zuid-Amerika",
         "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dUgbDujRSmQY9w1Fx5xZLWz",
         "conditions": [
             {
@@ -88,7 +88,7 @@
     {
         "type": "youtubeIframe",
         "src": "https://www.youtube-nocookie.com/embed/videoseries?si=_JuYFeqgzXLXI4Qz&amp;list=PL_D8rVt3g7dXbK21n_32M-iMyISKcnHB8",
-        "title": "Aardrijkskunde Kennisclips: Thema Leefomgeving",
+        "title": "Aardrijkskunde Kennisclips: Leefomgeving",
         "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dXbK21n_32M-iMyISKcnHB8",
         "conditions": [
             {
@@ -111,7 +111,7 @@
     {
         "type": "youtubeIframe",
         "src": "https://www.youtube-nocookie.com/embed/videoseries?si=3v6MKm1622aot8JC&amp;list=PL_D8rVt3g7dVHTHw1E8IpgN-0x0ZA8jBV",
-        "title": "Aardrijkskunde Kennisclips: Thema Water",
+        "title": "Aardrijkskunde Kennisclips: Water",
         "href": "https://www.youtube.com/playlist?list=PL_D8rVt3g7dVHTHw1E8IpgN-0x0ZA8jBV",
         "conditions": [
             {
