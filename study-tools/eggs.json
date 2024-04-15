@@ -6,23 +6,19 @@
         "output": "Het werkt?"
     },
     {
-        "type": "dialog",
+        "type": "applySettings",
         "location": "studyguidesSearch",
-        "input": "R2VmZW",
-        "output": "Dat was niet helemaal de bedoeling sukkel"
+        "input": "Discord-mode",
+        "output": {
+            "appbarcolor": "true,225,6.3,12.5",
+            "decoration": "none",
+            "magister-picture": "custom",
+            "magister-picture-source": "data:image/webp;base64,UklGRuwCAABXRUJQVlA4WAoAAAAgAAAANwAANwAASUNDUMgBAAAAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADZWUDgg/gAAAHAHAJ0BKjgAOAA/EXi1UCwnpaKuFtuJgCIJZADOsD76t/HoihGP61hpYw5Z1NN4bq7oCKOufMpnylC3y80qP7dFAy4gANZ5R6+pAwH5/1E9hHfeEu9y0SE1mj3Z+QDLC5oD3+LqS1T6ZjXgiYHVWkX3iFjKDyX7UcGV+Smyo1jisfsJFp8mgoSp31n5pybf8uJuJDN8KLAr/UEXi/UylwajOjYeNN4sHaE1pCQwGkAIBs1SUk7qLFKqGb0GsiU4N61XrXFPy/3i91rdvItliQM1J8gZZ9QIz32RnVHALZTLoWn4//RXx++eKTomYf2YcvOjHNDz3CseeMrAAAAA",
+            "pagecolor": "true,223,6.7,20.6",
+            "ptheme": "dark,235,48,85",
+            "shape": 10,
+            "sidecolor": "true,220,6.5,18",
+            "special": "Discord-mode"
+        }F
     },
-    {
-        "type": "dialog",
-        "location": "personalEventTitle",
-        "matchRule": "startsWith",
-        "input": "R2VmZW",
-        "output": "tetrasexagesimal binary-to-text encoding"
-    },
-    {
-        "type": "dialog",
-        "location": "personalEventTitle",
-        "matchRule": "startsWith",
-        "input": "Study Tools",
-        "output": "Very good"
-    }
 ]
