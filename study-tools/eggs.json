@@ -20,5 +20,21 @@
             "sidecolor": "true,220,6.5,18",
             "special": "Discord-mode"
         }
+    },
+    {
+        "type": "applySettings",
+        "location": "studyguidesSearch",
+        "input": "normal-mode",
+        "output": {
+            "appbarcolor": "false,207,95,47",
+            "decoration": "none",
+            "magister-picture": "hide",
+            "magister-picture-source": "",
+            "pagecolor": "false,0,0,7",
+            "ptheme": "light,207,95,55",
+            "shape": 8,
+            "sidecolor": "false,207,95,55",
+            "special": ""
+        }
     }
 ]
