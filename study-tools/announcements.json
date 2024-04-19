@@ -44,9 +44,9 @@
     },
     {
         "type": "snackbar",
-        "body": "testbericht. zie je dit? laat het weten!",
+        "body": "testbericht J. zie je dit? laat het weten!",
         "onlyForSchools": ["studentname"],
-        "onlyForStudentName": ["Quinten Althues"],
+        "onlyForStudentName": ["Jens Bakker"],
         "duration": 10000
     }
 ]
