@@ -46,7 +46,7 @@
         "type": "snackbar",
         "body": "testbericht J. zie je dit? laat het weten!",
         "onlyForSchools": ["studentname"],
-        "onlyForStudentName": ["Jens Bakker"],
+        "onlyForStudents": ["Jens Bakker"],
         "duration": 10000
     }
 ]
