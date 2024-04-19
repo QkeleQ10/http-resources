@@ -41,5 +41,12 @@
         "onlyAfterTime": "08:00",
         "onlyForSchools": ["amadeuslyceum", "amadeus"],
         "duration": 10000
+    },
+    {
+        "type": "snackbar",
+        "body": "testbericht. zie je dit? laat het weten!",
+        "onlyForSchools": ["studentname"],
+        "onlyForStudentName": ["Quinten Althues"],
+        "duration": 10000
     }
 ]
