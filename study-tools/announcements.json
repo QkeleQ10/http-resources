@@ -44,9 +44,9 @@
     },
     {
         "type": "snackbar",
-        "body": "testbericht Q. zie je dit? laat het weten!",
+        "body": "volgende toetsweek beter je best doen groetjes Koen",
         "onlyForSchools": ["studentname"],
-        "onlyForStudents": ["Quinten Althues"],
+        "onlyForStudents": ["Jens Bakker"],
         "duration": 10000
     }
 ]
