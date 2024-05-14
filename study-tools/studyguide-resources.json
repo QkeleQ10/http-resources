@@ -16,6 +16,20 @@
             }
         ]
     },
+  {
+        "type": "youtubeIframe",
+        "src": "https://www.youtube-nocookie.com/embed/videoseries?si=COWFr7FWpdtuIbKi&amp;list=PLzQTT2i3Ij_kLoMlWdaTaNAo535wiSxIv",
+        "title": "Scheikunde met Stan",
+        "href": "https://www.youtube.com/@scheikundemetstan",
+        "conditions": [
+            {
+                "studyguideTitleIncludes": "v6-sk"
+            },
+            {
+                "studyguideTitleIncludes": "v6 scheikunde"
+            }
+        ]
+    },
     {
         "type": "youtubeIframe",
         "src": "https://www.youtube-nocookie.com/embed/videoseries?si=42q35zJKuall8SAc&amp;list=PL_D8rVt3g7dUA_YCSKwYLnfKBBxVLnck0",
