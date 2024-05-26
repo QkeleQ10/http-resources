@@ -46,7 +46,7 @@
         "type": "snackbar",
         "body": "volgende toetsweek beter je best doen groetjes Koen",
         "onlyForSchools": ["studentname"],
-        "onlyForStudents": ["Quinten Althues"],
+        "onlyForStudents": ["Jens Bakker"],
         "duration": 10000
     }
 ]
