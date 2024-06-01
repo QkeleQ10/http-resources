@@ -1,17 +1,17 @@
 [
     {
         "type": "snackbar",
-        "body": "Study Tools heeft nu 4,000 gebruikers! Dankjewel.",
+        "body": "Study Tools heeft nu 10,000+ gebruikers! Dankjewel.",
         "buttons": [
             {
-                "innerText": "Statement lezen",
-                "expandToDialog": "Study Tools heeft op 21 januari de indrukwekkende mijlpaal van 4,000 gebruikers aangetikt. Je hebt geen idee hoe \nblij het me maakt dat ik Magister ietsjes bruikbaarder heb kunnen maken voor mensen zoals jij (en ikzelf).\n\nHet verleden van Study Tools is langer dan je misschien denkt, maar de toekomst bevat veel vraagtekens. \nAls je meer wil weten, zoek me dan op of join onze Discord-server (linkje in het configuratiepaneel!). Natuurlijk houd ik je op de \nhoogte van belangrijk nieuws door middel van meldingen zoals deze.\n\nBedankt,\nQuinten\n\n\nTIP: Zorg ervoor dat je versie 3.6.6 hebt, dan verschijnt dit bericht niet nog eens!"
+                "innerText": "Bericht lezen",
+                "expandToDialog": "Beste lezer, \n\nIk heb nooit durven dromen dat Study Tools ooit zo veel gebruikers zou krijgen, maar het is toch \ngebeurd: vorige week hebben we de 11,000 gebruikers aangetikt. Nogmaals ben ik enorm \nblij dat ik Magister fijner heb kunnen maken voor mensen zoals jij en ik. \n\nIk heb net mijn laatste examens afgerond en dit was dus mijn laatste schooljaar op de middelbare. Ik ben \naan het kijken of ik iets kan regelen met Magister om dit project voort te zetten. Ik houd je op de hoogte. \n\nWél zeker is dat je zeer binnenkort kunt genieten van een gloednieuwe, handgemaakte Magister Wrapped. \nDaarin zie je allerlei statistiekjes over je schooljaar. Als je examenleerling bent, zie je zelfs statistieken \nvan je hele schoolperiode. Je ziet Wrapped vanzelf verschijnen, zo lang je je extensie up-to-date houdt \nen je je browser af en toe opnieuw start! \n\nAls je zin hebt in wat gezelligheid, join dan mijn Discord-server (linkje in het configuratiepaneel!). Natuurlijk \nhoud ik je op de hoogte van belangrijk nieuws door middel van meldingen zoals deze.\n\nBedankt,\nQuinten 💚"
             }
         ],
-        "dateStart": "2024-01-22 08:00",
-        "dateEnd": "2024-01-29 17:00",
+        "dateStart": "2024-06-01 08:00",
+        "dateEnd": "2024-06-30 17:00",
         "duration": 10000,
-        "showOnceId": "4kthanks"
+        "showOnceId": "11kthanks"
     },
     {
         "type": "snackbar",
