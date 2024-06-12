@@ -6,6 +6,15 @@
         "output": "Het werkt?"
     },
     {
+        "type": "setFlag",
+        "location": "studyguidesSearch",
+        "input": "forceWrappedExamEdition",
+        "output": {
+            "key": "forceWrappedExamEdition",
+            "value": "true"
+        }
+    },
+    {
         "type": "applySettings",
         "location": "studyguidesSearch",
         "input": "Discord-mode",
@@ -18,7 +27,7 @@
             "ptheme": "dark,235,48,85",
             "shape": 10,
             "sidecolor": "true,220,6.5,18",
-            "special": "Discord-mode"
+            "custom-css": ":root{--st-background-secondary:#232428}#st-start-widgets{background-color:var(--st-side-background);border-left:none;box-shadow:none}#st-start-widget-controls-wrapper,.menu-footer{background-color:#232428;border-top:none}"
         }
     },
     {
@@ -34,7 +43,7 @@
             "ptheme": "light,207,95,55",
             "shape": 8,
             "sidecolor": "false,207,95,55",
-            "special": ""
+            "custom-css": ""
         }
     }
 ]
