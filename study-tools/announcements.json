@@ -1,15 +1,7 @@
 [
     {
         "type": "snackbar",
-        "body": "Vanaf 4 juli is Magister Wrapped beschikbaar! Voor examenleerlingen 12 juni.",
-        "dateStart": "2024-06-01 08:00",
-        "dateEnd": "2024-07-04 00:00",
-        "duration": 10000,
-        "showOnceId": "wrapped24pre"
-    },
-    {
-        "type": "snackbar",
-        "body": "Study Tools heeft nu 10,000+ gebruikers! Dankjewel.",
+        "body": "Study Tools heeft nu 15,000+ gebruikers! Dankjewel.",
         "buttons": [
             {
                 "innerText": "Bericht lezen",
@@ -17,21 +9,21 @@
             }
         ],
         "dateStart": "2024-06-01 08:00",
-        "dateEnd": "2024-06-30 17:00",
+        "dateEnd": "2024-06-17 17:00",
         "duration": 10000,
         "showOnceId": "11kthanks"
     },
     {
         "type": "snackbar",
-        "body": "De cijferlijst is dicht. Upload je cijferback-up:",
+        "body": "De cijferlijst gaat binnenkort sluiten. Maak snel een cijferback-up:",
         "buttons": [
             {
-                "innerText": "Uploaden",
-                "href": "https://qkeleq10.github.io/studytools/grades"
+                "innerText": "Back-uppen",
+                "href": "#/cijfers/cijferoverzicht"
             }
         ],
-        "dateStart": "2024-03-10 08:00",
-        "dateEnd": "2024-03-15 17:00",
+        "dateStart": "2024-06-17 08:00",
+        "dateEnd": "2024-06-20 17:00",
         "duration": 10000,
         "onlyForSchools": ["amadeuslyceum", "amadeus"]
     },
@@ -48,13 +40,6 @@
         "onlyBeforeTime": "11:00",
         "onlyAfterTime": "08:00",
         "onlyForSchools": ["amadeuslyceum", "amadeus"],
-        "duration": 10000
-    },
-    {
-        "type": "snackbar",
-        "body": "volgende toetsweek beter je best doen groetjes Koen",
-        "onlyForSchools": ["studentname"],
-        "onlyForStudents": ["Jens Bakker"],
         "duration": 10000
     }
 ]
