@@ -15,6 +15,15 @@
         }
     },
     {
+        "type": "setFlag",
+        "location": "studyguidesSearch",
+        "input": "themeContestJurorMode",
+        "output": {
+            "key": "themeContestJurorMode",
+            "value": "true"
+        }
+    },
+    {
         "type": "applySettings",
         "location": "studyguidesSearch",
         "input": "Discord-mode",
