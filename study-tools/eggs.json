@@ -17,6 +17,15 @@
     {
         "type": "setFlag",
         "location": "studyguidesSearch",
+        "input": "sampleApiData",
+        "output": {
+            "key": "sampleApiData",
+            "value": "true"
+        }
+    },
+    {
+        "type": "setFlag",
+        "location": "studyguidesSearch",
         "input": "themeContestJurorMode",
         "output": {
             "key": "themeContestJurorMode",
