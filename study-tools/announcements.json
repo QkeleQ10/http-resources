@@ -1,17 +1,17 @@
 [
     {
         "type": "snackbar",
-        "body": "Study Tools heeft nu 15,000+ gebruikers! Dankjewel.",
+        "body": "120,000+ gebruikers?! Dankjewel.",
         "buttons": [
             {
-                "innerText": "Bericht lezen",
-                "expandToDialog": "Beste lezer, \n\nIk heb nooit durven dromen dat Study Tools ooit zo veel gebruikers zou krijgen, maar het is toch \ngebeurd: vorige week hebben we de 11,000 gebruikers aangetikt. Nogmaals ben ik enorm \nblij dat ik Magister fijner heb kunnen maken voor mensen zoals jij en ik. \n\nIk heb net mijn laatste examens afgerond en dit was dus mijn laatste schooljaar op de middelbare. Ik ben \naan het kijken of ik iets kan regelen met Magister om dit project voort te zetten. Ik houd je op de hoogte. \n\nWél zeker is dat je zeer binnenkort kunt genieten van een gloednieuwe, handgemaakte Magister Wrapped. \nDaarin zie je allerlei statistiekjes over je schooljaar. Als je examenleerling bent, zie je zelfs statistieken \nvan je hele schoolperiode. Je ziet Wrapped vanzelf verschijnen, zo lang je je extensie up-to-date houdt \nen je je browser af en toe opnieuw start! \n\nAls je zin hebt in wat gezelligheid, join dan mijn Discord-server (linkje in het configuratiepaneel!). Natuurlijk \nhoud ik je op de hoogte van belangrijk nieuws door middel van meldingen zoals deze.\n\nBedankt,\nQuinten 💚"
+                "innerText": "Lezen",
+                "expandToDialog": "Beste lezer, \n\nWat jaren geleden begon als een klein projectje voor mezelf, is uitgegroeid tot iets (voor mij) enorms waar veel \nmensen zoals jij profijt van hebben. \n\nEen klein deel van jullie heeft in juni eerder een melding gekregen als deze, namelijk bij 10,000. En een nog kleiner deel \nin januari, namelijk met 4,000 gebruikers. Slechts een enkeling heeft het begin van Study Tools meegemaakt, bijna \n4 jaar geleden. Na een bizarre periode hebben we deze maand dan eindelijk de ondoorgrondelijke mijlpaal van 100,000 \ngebruikers bereikt. Dat is 0,1 miljoen! \n\nHoewel ik inmiddels niet meer op de middelbare school zit, breng ik nog steeds af en toe een update uit met nieuwe \nfuncties en verbeteringen, zoals op maandag (14 oktober). Alleen met jullie hulp kan ik dat blijven doen. Dankjewel dat \njullie de extensie naar elkaar verspreiden en mij feedback geven! \n\nGroetjes,\nQuinten 💚\n\nPS Als je zin hebt in wat gezelligheid, join dan mijn Discord-server (linkje in het configuratiepaneel!). Kom kletsen \nin de chat, speel een game met ons of neem deel aan een winactie! Dit is ook dé plek om mij te helpen \nmet het verbeteren van Study Tools."
             }
         ],
-        "dateStart": "2024-06-01 08:00",
-        "dateEnd": "2024-06-17 17:00",
-        "duration": 10000,
-        "showOnceId": "11kthanks"
+        "dateStart": "2024-10-14 08:00",
+        "dateEnd": "2024-10-20 17:00",
+        "duration": 15000,
+        "showOnceId": "100kthanks"
     },
     {
         "type": "snackbar",
