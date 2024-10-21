@@ -29,7 +29,13 @@
                 "studyguideTitleIncludes": "v5-sk"
             },
             {
+                "studyguideTitleIncludes": "v4-sk"
+            },
+            {
                 "studyguideTitleIncludes": "h5-sk"
+            },
+            {
+                "studyguideTitleIncludes": "h4-sk"
             }
         ]
     },
