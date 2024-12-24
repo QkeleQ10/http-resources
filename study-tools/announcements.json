@@ -15,12 +15,10 @@
     },
     {
         "type": "snackbar",
-        "body": "Succes met je toetsweek! Ik duim voor je 🤞",
-        "dateStart": "2024-11-20 08:00",
-        "dateEnd": "2024-11-29 17:00",
-        "duration": 10000,
-        "showOnceId": "amatw2024nov",
-        "onlyForSchools": ["amadeuslyceum", "amadeus"]
+        "body": "Merry kersemus",
+        "dateStart": "2024-12-24 08:00",
+        "dateEnd": "2024-12-26 17:00",
+        "duration": 10000
     },
     {
         "type": "snackbar",
