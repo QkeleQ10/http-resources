@@ -15,10 +15,17 @@
     },
     {
         "type": "snackbar",
-        "body": "Merry kersemus",
-        "dateStart": "2024-12-24 08:00",
-        "dateEnd": "2024-12-26 17:00",
-        "duration": 10000
+        "body": "love you guys 💚",
+        "buttons": [
+            {
+                "innerText": "Wat gebeurt er?",
+                "expandToDialog": "Wat er met je menubalk gebeurt is een 1 aprilgrap. Vind je hem smakeloos? Ik ook. Ik was vergeten de grap van vorig jaar weg te halen. Je zult vandaag maar even moeten doorbijten. Ik had nog veel ergere dingen kunnen doen... 😈"
+            }
+        ],
+        "dateStart": "2025-04-01 08:00",
+        "dateEnd": "2025-04-01 23:59",
+        "duration": 10000,
+        "showOnceId": "01apr2025"
     },
     {
         "type": "snackbar",
