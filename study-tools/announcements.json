@@ -15,20 +15,6 @@
     },
     {
         "type": "snackbar",
-        "body": "love you guys 💚",
-        "buttons": [
-            {
-                "innerText": "Wat gebeurt er?",
-                "expandToDialog": "Wat er met je menubalk gebeurt is een 1 aprilgrap. Vind je hem smakeloos? Ik ook. Ik was vergeten de grap van vorig jaar weg te halen. Je zult vandaag maar even moeten doorbijten. Ik had nog veel ergere dingen kunnen doen... 😈"
-            }
-        ],
-        "dateStart": "2025-04-01 08:00",
-        "dateEnd": "2025-04-01 23:59",
-        "duration": 10000,
-        "showOnceId": "01apr2025"
-    },
-    {
-        "type": "snackbar",
         "body": "De cijferlijst gaat binnenkort sluiten. Maak snel een cijferback-up:",
         "buttons": [
             {
@@ -40,20 +26,5 @@
         "dateEnd": "2024-11-22 17:00",
         "duration": 10000,
         "onlyForSchools": ["amadeuslyceum", "amadeus"]
-    },
-    {
-        "type": "snackbar",
-        "body": "Vergeet je niet in te schrijven voor je keuzeblokken!",
-        "buttons": [
-            {
-                "innerText": "Zermelo",
-                "href": "https://amadeuslyceum.zportal.nl/app/"
-            }
-        ],
-        "onlyOnWeekdays": [1],
-        "onlyBeforeTime": "11:00",
-        "onlyAfterTime": "08:00",
-        "onlyForSchools": ["amadeuslyceum", "amadeus"],
-        "duration": 10000
     }
 ]
